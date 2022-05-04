@@ -1,0 +1,10 @@
+/* 
+ Localizable.strings
+ simple
+ 
+ */
+
+//WelcomeScreen
+"sessionIsNotActive" = "Session is not active!";
+"registration" = "Registration";
+"signUp" = "Sign up";

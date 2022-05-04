@@ -1,0 +1,10 @@
+/* 
+ Localizable.strings
+ simple
+ 
+ */
+
+//WelcomeScreen
+"sessionIsNotActive" = "Сесія неактивна!";
+"registration" = "Реєстрація";
+"signUp" = "Зареєструватися";
