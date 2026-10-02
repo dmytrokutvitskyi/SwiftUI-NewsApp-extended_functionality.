@@ -2,10 +2,9 @@
 //  ApiKey.swift
 //  simple
 //
-//
 
 import Foundation
 
 struct APIKey {
-    static let key = "You key"
+    static let key = "YOUR_NEWSAPI_KEY_HERE"
 }
